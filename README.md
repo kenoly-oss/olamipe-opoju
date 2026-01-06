@@ -1,33 +1,41 @@
-# SmartSpend – Business Idea Website
+# My First Web Page
 
-## 📖 Overview
-This project is a single-page website created to present a business idea called **SmartSpend**.
-The website explains the problem being addressed, the proposed solution, and the key features
-of the business.
+## 📘 Description
+This project is my first web page created using HTML.
+It is part of my learning process in website design and also serves to present my
+business idea called **SmartSpend**.
 
-## 💡 Business Idea
-SmartSpend is designed to help people manage their money better by allowing them to track
-expenses, plan budgets, and set savings goals in a simple and easy-to-use way.
+## 🧠 What I Learned
+Through this project, I practiced:
+- Writing basic HTML structure
+- Using headings and paragraphs
+- Adding an image to a webpage
+- Presenting an idea clearly using a web page
+
+## 💡 Business Idea – SmartSpend
+SmartSpend is a business idea focused on helping people manage their money better.
+The idea is to provide a simple platform where users can:
+- Track their expenses
+- Plan budgets
+- Set savings goals
+- Improve their financial habits
+
+## 🖼️ Image
+The webpage includes an image created by me to visually represent the SmartSpend idea.
 
 ## 🛠️ Technologies Used
 - HTML
-- CSS
-- GitHub Pages (for hosting)
 
 ## 📂 Project Files
-- `index.html` – Contains the full webpage layout and styling
-- `README.md` – Project description and documentation
+- `index.html` – The main webpage
+- `README.md` – Project explanation
+- Image file – Used in the webpage design
 
-## 🌍 Live Website
-This website is hosted using GitHub Pages.  
-Once deployed, it can be accessed through the GitHub Pages link provided in the repository.
-
-## 🎯 Purpose
-This project was created to demonstrate:
-- Basic web development skills
-- Ability to present a business idea clearly
-- Understanding of single-page website design
+## 🎓 Purpose
+This project was created for learning and educational purposes as part of my journey
+into web design and development.
 
 ## 👤 Author
 olamipe Opoju
+
 
